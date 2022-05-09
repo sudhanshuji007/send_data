@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Sudhanhsu",
+      "phone": "9755815692",
+      "email": "sudhanshusitole0@gmail.com",
+      "dob": "2022-04-03",
+      "address": "Khandwah road limbodi indore",
+      "location": "Indore",
+      "desi": "Developer",
+      "id": 1
+    },
+    {
+      "name": "Shanu",
+      "phone": "9691280130",
+      "email": "sudh@gmail.com",
+      "dob": "2022-04-16",
+      "address": "Maheshwar",
+      "location": "Pune",
+      "desi": "Developer",
+      "id": 2
+    },
+    {
+      "name": "Himanshu",
+      "phone": "9981789141",
+      "email": "him@gmail.com",
+      "dob": "2022-04-01",
+      "address": "Khargone",
+      "location": "Mumbai",
+      "desi": "Developer",
+      "id": 3
+    },
+    {
+      "name": "Mohan",
+      "phone": "9009484644",
+      "email": "mohan@gmail.com",
+      "dob": "2022-04-14",
+      "address": "Barwani",
+      "location": "Indore",
+      "desi": "Developer",
+      "id": 4
+    }
+  ]
+}
